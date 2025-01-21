@@ -11,9 +11,9 @@
 
 
  ## 김도현
-닉네임: KimHyeun
-좋아하는 게임: 다크소울, 엘든링, 단간론파, 에픽세븐 등
- 이미지 테스트
+* 닉네임: KimHyeun
+* 좋아하는 게임: 다크소울, 엘든링, 단간론파, 에픽세븐 등
+*  이미지 테스트
  ![Image](https://github.com/user-attachments/assets/23a9ff9f-6c14-4658-a2cb-489dc3feb3dd)
  
 
