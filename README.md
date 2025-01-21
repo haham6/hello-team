@@ -19,17 +19,20 @@
 
  # 김윤상
 <h1>좋아하는 게임<h2>
-<pre>
-  모바일 - 거의 다...
-  pc - 롤, 발로란트, 롤체 등등
+ - 모바일 - 거의 다...
+ - 롤, 발로란트, 롤체 등등
 </pre>
 :smile: :rocket: :sunglasses:
+
+<pre>
 | Game    | Genre     | Rating |
 |---------|-----------|--------|
 | Valorant| FPS       | 9/10   |
 | LOL     | MOBA      | 8/10   |
 - [x] Complete task 1
 - [ ] Complete task 2
+</pre>
+
 <span style="color:red">Red Text</span>
 <span style="color:blue">Blue Text</span>
 
