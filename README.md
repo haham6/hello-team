@@ -6,7 +6,7 @@
 
 ![Image](https://github.com/user-attachments/assets/304a98e9-f310-40d9-8d58-1a9142b867e6)
 
-<img src="https://github.com/user-attachments/assets/304a98e9-f310-40d9-8d58-1a9142b867e6", height="128px", width="128px">
+<img src="https://github.com/user-attachments/assets/304a98e9-f310-40d9-8d58-1a9142b867e6", height="128", width="128">
 
 ![Image](https://github.com/user-attachments/assets/0d1ce8d1-9a2d-4834-91ff-ce30cf6be222)
 
