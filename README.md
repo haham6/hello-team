@@ -24,4 +24,5 @@
   pc - 롤, 발로란트, 롤체 등등
 </pre>
 발로란트 이미지<br>
-![Image](https://kr.pinterest.com/pin/807059195763993663/)
+
+![Image](https://www.example.com/image.jpg)
