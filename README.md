@@ -23,6 +23,21 @@
   모바일 - 거의 다...
   pc - 롤, 발로란트, 롤체 등등
 </pre>
-발로란트 이미지<br>
+:smile: :rocket: :sunglasses:
+| Game    | Genre     | Rating |
+|---------|-----------|--------|
+| Valorant| FPS       | 9/10   |
+| LOL     | MOBA      | 8/10   |
+- [x] Complete task 1
+- [ ] Complete task 2
+<span style="color:red">Red Text</span>
+<span style="color:blue">Blue Text</span>
 
-![Image](https://kr.pinterest.com/pin/807059195763993663/)
+```python
+print("Hello, world!")
+```
+# Big Title
+## Subheading
+---
+[Visit my website](https://www.naver.com)
+> "Inspiration exists, but it has to find you working." - Pablo Picasso
