@@ -2,6 +2,7 @@
 ## 함민식
 * 닉네임: ham6
 * 좋아하는 게임: 슬레이 더 스파이어, 포탈
+* ![Image](https://github.com/user-attachments/assets/0d1ce8d1-9a2d-4834-91ff-ce30cf6be222)
 
 
  # 임원빈
