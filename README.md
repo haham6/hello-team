@@ -44,3 +44,7 @@ print("Hello, world!")
 ---
 [Visit my website](https://www.naver.com)
 > "Inspiration exists, but it has to find you working." - Pablo Picasso
+
+## 권민지
+좋아하는 게임: 디아블로, 메이플스토리, 드래곤퀘스트 빌더즈
+![Image](https://www.youtube.com/watch?v=xMad3JOyYoE)
